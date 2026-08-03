@@ -1,25 +1,34 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:3B82F6,100:7C3AED&height=140&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:3B82F6,100:7C3AED&height=220&section=header&text=Manish%20Mishra&fontSize=52&fontColor=FAFAFA&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20·%20Data%20Engineer%20·%20Full-Stack%20Developer&descAlignY=52&descAlign=50" width="100%"/>
+<table width="100%">
+<tr>
+<td width="65%" valign="middle">
 
-<img src="https://drive.google.com/uc?export=view&id=1WChC7MDrfJ1lhEvYPZhwqfBU5eeAo1NS" width="140" height="140" style="border-radius:50%;object-fit:cover;border:3px solid #3B82F6;" alt="Manish Mishra"/>
+# Manish
 
-<br/><br/>
+<b>AI Engineer · Data Engineer · Full-Stack Developer</b>
 
 <a href="https://www.manishmishra.site/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=800&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+production-grade+AI+systems;Data+Engineer+%7C+ML+Engineer+%7C+DevOps;LangChain+%2B+FastAPI+%2B+Databricks+%2B+AWS;Turning+data+into+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=3B82F6&vCenter=true&width=560&lines=Building+production-grade+AI+systems;Data+Engineer+%7C+ML+Engineer+%7C+DevOps;LangChain+%2B+FastAPI+%2B+Databricks+%2B+AWS;Turning+data+into+decisions" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manishmishra.site-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.manishmishra.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manish-mishra-b5356b284)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishmishra2604@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-22C55E?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.manishmishra.site/resume.pdf)
 
-</div>
+</td>
+<td width="35%" align="right" valign="middle">
+<img src="https://drive.google.com/uc?export=view&id=1WChC7MDrfJ1lhEvYPZhwqfBU5eeAo1NS" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #3B82F6;" alt="Manish Mishra"/>
+</td>
+</tr>
+</table>
 
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/roundedandreasbm-line.gif" width="100%" height="2"/>
 
 ## About this repo
 
@@ -27,55 +36,74 @@ This is the source for my personal portfolio — not a template, a small product
 editorial single-page site with a rotating role hero, a two-column project grid, and a
 password-gated admin dashboard so I can add or edit projects without touching code.
 
-<br/>
-
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,aws,docker,jenkins,git,github,githubactions,postgres,mysql,react,js,html,css,linux,vscode&theme=dark" />
 </div>
 
 <br/>
 
-## 🔥 Recently Updated
+## Recently Updated
 
-<div align="center">
-
-| Project | Last Commit | Status |
-|---|---|---|
-| **[MediReporter](https://github.com/manish26m/MediReporter)** | ![last commit](https://img.shields.io/github/last-commit/manish26m/MediReporter?style=flat-square&color=3B82F6&label=) | ![Live](https://img.shields.io/badge/-Live-22C55E?style=flat-square) |
-| **[BoardUniverse](https://github.com/manish26m/BoardUniverse)** | ![last commit](https://img.shields.io/github/last-commit/manish26m/BoardUniverse?style=flat-square&color=3B82F6&label=) | ![Live](https://img.shields.io/badge/-Live-22C55E?style=flat-square) |
-| **[DataForge](https://github.com/manish26m/DataForge)** | ![last commit](https://img.shields.io/github/last-commit/manish26m/DataForge?style=flat-square&color=3B82F6&label=) | ![Live](https://img.shields.io/badge/-Live-22C55E?style=flat-square) |
-
-</div>
+<table width="100%">
+<tr style="border-bottom:1px solid #333;">
+<th align="left">Project</th>
+<th align="left">Last Commit</th>
+<th align="left">Status</th>
+</tr>
+<tr>
+<td><a href="https://github.com/manish26m/MediReporter"><b>MediReporter</b></a></td>
+<td><img src="https://img.shields.io/github/last-commit/manish26m/MediReporter?style=flat-square&color=3B82F6&label=" /></td>
+<td><img src="https://img.shields.io/badge/-Live-22C55E?style=flat-square" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/manish26m/BoardUniverse"><b>BoardUniverse</b></a></td>
+<td><img src="https://img.shields.io/github/last-commit/manish26m/BoardUniverse?style=flat-square&color=3B82F6&label=" /></td>
+<td><img src="https://img.shields.io/badge/-Live-22C55E?style=flat-square" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/manish26m/fmcg-DataForge"><b>DataForge</b></a></td>
+<td><img src="https://img.shields.io/github/last-commit/manish26m/fmcg-DataForge?style=flat-square&color=3B82F6&label=" /></td>
+<td><img src="https://img.shields.io/badge/-Live-22C55E?style=flat-square" /></td>
+</tr>
+</table>
 
 <br/>
 
-## ✨ Features
+## Features
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border-left:3px solid #3B82F6; padding-left:14px;">
 
-**🎬 Dynamic hero**
+<b>Dynamic hero</b><br/>
 Role title rotates through Data Engineer, Python Developer, DevOps Engineer, Business
 Analyst, and AI & ML Engineer with a soft gradient fade.
 
-**🌌 Ambient motion**
-Subtle animated grid + floating gradient blobs — no bounce, no clutter, no motion library.
+<br/><br/>
 
-**🗂️ Case-study project grid**
-Two cards per row: image preview, tags, live status, GitHub + demo links.
+<b>Ambient motion</b><br/>
+Subtle animated grid and floating gradient blobs — no bounce, no clutter, no motion library.
+
+<br/><br/>
+
+<b>Case-study project grid</b><br/>
+Two cards per row: image preview, tags, live status, GitHub and demo links.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border-left:3px solid #7C3AED; padding-left:14px;">
 
-**🔍 Scroll reveals**
-Sections fade and lift into view via `IntersectionObserver` — zero dependencies.
+<b>Scroll reveals</b><br/>
+Sections fade and lift into view via <code>IntersectionObserver</code> — zero dependencies.
 
-**🔐 Admin panel**
-Lock icon in the nav → login → add/edit/delete projects from a real dashboard, no redeploy
-needed.
+<br/><br/>
 
-**📡 Shared live data**
+<b>Admin panel</b><br/>
+Lock icon in the nav opens a login screen; once authenticated, add, edit, or delete projects
+from a real dashboard, no redeploy needed.
+
+<br/><br/>
+
+<b>Shared live data</b><br/>
 Edits persist via shared storage — every visitor sees the same up-to-date project list.
 
 </td>
@@ -84,56 +112,77 @@ Edits persist via shared storage — every visitor sees the same up-to-date proj
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<div align="center">
-
-| | Project | Stack |
-|---|---|---|
-| 🩺 | **[MediReporter](https://www.manishmishra.site/projects/medireporter)**<br/>AI clinical documentation — converts medical reports into structured summaries. | `Python` `FastAPI` `Hugging Face` `BERT` `LSTM` |
-| 🧱 | **[BoardUniverse](https://www.manishmishra.site/projects/boarduniverse)**<br/>Enterprise CI/CD automation with security scanning baked in. | `Docker` `Jenkins` `GitHub Actions` `SonarQube` `Trivy` |
-| 🏗️ | **[DataForge](https://www.manishmishra.site/projects/dataforge)**<br/>Medallion-architecture data lakehouse with real-time BI dashboards. | `Python` `SQL` `FastAPI` `AWS S3` `Databricks` |
-| 🎯 | **[Lead Intelligence Engine](https://www.manishmishra.site/projects/lead-intelligence-engine)**<br/>Enrollment prediction over 20,000+ leads with tuned precision-recall scoring. | `Python` `SQL` `Scikit-learn` `Pandas` `NumPy` |
-| 🧠 | **[LLM Document Q&A](https://www.manishmishra.site/projects/llm-document-qa)**<br/>RAG document intelligence with vector search + LangChain. | `Python` `FastAPI` `LangChain` `OpenAI API` `Pandas` |
-
-</div>
+<table width="100%">
+<tr>
+<td width="8"></td>
+<td><b><a href="https://www.manishmishra.site/projects/medireporter">MediReporter</a></b><br/>
+<span>AI clinical documentation — converts medical reports into structured summaries.</span><br/>
+<code>Python</code> <code>FastAPI</code> <code>Hugging Face</code> <code>BERT</code> <code>LSTM</code>
+</td>
+</tr>
+<tr><td colspan="2"><hr style="border:0.5px solid #222;"/></td></tr>
+<tr>
+<td></td>
+<td><b><a href="https://www.manishmishra.site/projects/boarduniverse">BoardUniverse</a></b><br/>
+<span>Enterprise CI/CD automation with security scanning baked in.</span><br/>
+<code>Docker</code> <code>Jenkins</code> <code>GitHub Actions</code> <code>SonarQube</code> <code>Trivy</code>
+</td>
+</tr>
+<tr><td colspan="2"><hr style="border:0.5px solid #222;"/></td></tr>
+<tr>
+<td></td>
+<td><b><a href="https://www.manishmishra.site/projects/dataforge">DataForge</a></b><br/>
+<span>Medallion-architecture data lakehouse with real-time BI dashboards.</span><br/>
+<code>Python</code> <code>SQL</code> <code>FastAPI</code> <code>AWS S3</code> <code>Databricks</code>
+</td>
+</tr>
+<tr><td colspan="2"><hr style="border:0.5px solid #222;"/></td></tr>
+<tr>
+<td></td>
+<td><b><a href="https://www.manishmishra.site/projects/lead-intelligence-engine">Lead Intelligence Engine</a></b><br/>
+<span>Enrollment prediction over 20,000+ leads with tuned precision-recall scoring.</span><br/>
+<code>Python</code> <code>SQL</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code>
+</td>
+</tr>
+<tr><td colspan="2"><hr style="border:0.5px solid #222;"/></td></tr>
+<tr>
+<td></td>
+<td><b><a href="https://www.manishmishra.site/projects/llm-document-qa">LLM Document Q&A</a></b><br/>
+<span>RAG document intelligence with vector search and LangChain.</span><br/>
+<code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>OpenAI API</code> <code>Pandas</code>
+</td>
+</tr>
+</table>
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<div align="center">
-
-| Layer | Choice |
-|---|---|
-| UI | React (functional components + hooks) |
-| Icons | [lucide-react](https://lucide.dev) |
-| Styling | Inline design tokens — no CSS framework dependency |
-| Fonts | Inter (UI) · JetBrains Mono (labels & tags) |
-| Motion | Native CSS keyframes + `IntersectionObserver` |
-| Persistence | Key-value storage API (shared scope) |
-
-</div>
+<table>
+<tr><td width="140"><b>UI</b></td><td>React (functional components + hooks)</td></tr>
+<tr><td><b>Icons</b></td><td><a href="https://lucide.dev">lucide-react</a></td></tr>
+<tr><td><b>Styling</b></td><td>Inline design tokens — no CSS framework dependency</td></tr>
+<tr><td><b>Fonts</b></td><td>Inter (UI) · JetBrains Mono (labels & tags)</td></tr>
+<tr><td><b>Motion</b></td><td>Native CSS keyframes + <code>IntersectionObserver</code></td></tr>
+<tr><td><b>Persistence</b></td><td>Key-value storage API (shared scope)</td></tr>
+</table>
 
 <br/>
 
-## 📦 Getting Started
+## Getting Started
 
 ```bash
-# clone the repo
 git clone https://github.com/manish26m/<your-repo>.git
 cd <your-repo>
-
-# install dependencies
 npm install
-
-# run locally
 npm run dev
 ```
 
 <br/>
 
-## 🔐 Admin Access
+## Admin Access
 
 The admin panel is reachable via the lock icon in the floating nav.
 
@@ -142,25 +191,25 @@ ID:       admin
 Password: changeme123
 ```
 
-> **Change these before deploying.** Credentials live as plain constants at the top of
+> Change these before deploying. Credentials live as plain constants at the top of
 > `portfolio.jsx` (`ADMIN_ID`, `ADMIN_PASS`). This is a lightweight client-side gate to keep
-> casual visitors out of the editor — **not** a substitute for real authentication.
+> casual visitors out of the editor — not a substitute for real authentication.
 
 <br/>
 
-## 🎨 Customization
+## Customization
 
-| Want to change... | Edit... |
-|---|---|
-| Name, headline, bio | `Hero()` component |
-| Rotating roles | `ROLES` array |
-| Color palette | Inline hex tokens (`#09090B`, `#3B82F6`, `#7C3AED`...) |
-| Default/starter projects | `SEED_PROJECTS` array |
-| Admin credentials | `ADMIN_ID`, `ADMIN_PASS` constants |
+<table>
+<tr><td width="220"><b>Name, headline, bio</b></td><td><code>Hero()</code> component</td></tr>
+<tr><td><b>Rotating roles</b></td><td><code>ROLES</code> array</td></tr>
+<tr><td><b>Color palette</b></td><td>Inline hex tokens (<code>#09090B</code>, <code>#3B82F6</code>, <code>#7C3AED</code>)</td></tr>
+<tr><td><b>Default projects</b></td><td><code>SEED_PROJECTS</code> array</td></tr>
+<tr><td><b>Admin credentials</b></td><td><code>ADMIN_ID</code>, <code>ADMIN_PASS</code> constants</td></tr>
+</table>
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=manish26m&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0F&title_color=3B82F6&icon_color=7C3AED&text_color=FAFAFA" />
@@ -178,7 +227,7 @@ Password: changeme123
 <br/>
 
 <details>
-<summary><b>🏆 GitHub Trophies (click to expand)</b></summary>
+<summary><b>GitHub Trophies</b></summary>
 <br/>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=manish26m&theme=darkhub&no-frame=true&row=1&column=6" />
@@ -187,9 +236,9 @@ Password: changeme123
 
 <br/>
 
-## 🗺️ Roadmap
+## Roadmap
 
-- [ ] Dedicated project case-study pages (problem → architecture → metrics → lessons)
+- [ ] Dedicated project case-study pages (problem, architecture, metrics, lessons learned)
 - [ ] GitHub activity dashboard (contribution graph, pinned repos, languages)
 - [ ] Interactive resume viewer with download
 - [ ] Experience timeline (Futurense, IIDR)
@@ -197,7 +246,7 @@ Password: changeme123
 
 <br/>
 
-## 👤 About Me
+## About Me
 
 Computer Science undergraduate (LPU, Punjab) specializing in AI & Data Engineering — hands-on
 with Databricks, AWS, FastAPI, Apache Spark, and Delta Lake. Semester exchange scholar at ITMO
@@ -206,7 +255,7 @@ at Futurense Technologies, and Research Intern at the Indian Institute of Develo
 
 <br/>
 
-## 📬 Contact
+## Contact
 
 <div align="center">
 
@@ -214,13 +263,13 @@ at Futurense Technologies, and Research Intern at the Indian Institute of Develo
 [![LinkedIn](https://img.shields.io/badge/manish--mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manish-mishra-b5356b284)
 [![GitHub](https://img.shields.io/badge/manish26m-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manish26m)
 
-📍 Lovely Professional University, Punjab, India
+Lovely Professional University, Punjab, India
 
 </div>
 
 <br/>
 
-## 📄 License
+## License
 
 MIT — do whatever you'd like with this, a credit back is always appreciated.
 
