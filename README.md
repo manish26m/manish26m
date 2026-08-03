@@ -1,34 +1,38 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:3B82F6,100:7C3AED&height=140&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:3B82F6,100:7C3AED&height=180&section=header"/>
 
-<table width="100%">
-<tr>
-<td width="65%" valign="middle">
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1dM0L3J2JKGku9kB_EnkAopBFvcSNnKp3"
+       width="170"
+       style="border-radius:50%;border:4px solid #3B82F6;" />
+</p>
 
-# Manish
+<h1 align="center">Hi 👋 I'm Manish Mishra</h1>
 
-<b>AI Engineer · Data Engineer · Full-Stack Developer</b>
+<h3 align="center">
+AI Engineer • Data Engineer • Full Stack Developer
+</h3>
 
-<a href="https://www.manishmishra.site/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=3B82F6&vCenter=true&width=560&lines=Building+production-grade+AI+systems;Data+Engineer+%7C+ML+Engineer+%7C+DevOps;LangChain+%2B+FastAPI+%2B+Databricks+%2B+AWS;Turning+data+into+decisions" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Production+Grade+AI+Systems;Data+Engineer+%7C+ML+Engineer+%7C+DevOps;LangChain+%2B+FastAPI+%2B+AWS+%2B+Databricks;Turning+Data+Into+Decisions"/>
+</p>
+
+<p align="center">
+<a href="https://www.manishmishra.site">
+<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/>
+<a href="https://linkedin.com/in/manish-mishra-b5356b284">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-manishmishra.site-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.manishmishra.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manish-mishra-b5356b284)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishmishra2604@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-22C55E?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.manishmishra.site/resume.pdf)
+<a href="mailto:manishmishra2604@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</td>
-<td width="35%" align="right" valign="middle">
-<img src="https://drive.google.com/uc?export=view&id=1dM0L3J2JKGku9kB_EnkAopBFvcSNnKp3" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #3B82F6;" alt="Manish Mishra"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/roundedandreasbm-line.gif" width="100%" height="2"/>
+<a href="https://www.manishmishra.site/resume.pdf">
+<img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge&logo=readme&logoColor=white"/>
+</a>
+</p>
 
 ## About this repo
 
