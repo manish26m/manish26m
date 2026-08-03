@@ -20,8 +20,8 @@
 [![Resume](https://img.shields.io/badge/Resume-Download-22C55E?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.manishmishra.site/resume.pdf)
 
 </td>
-<td width="35%" align="centre" valign="middle">
-<img src="https://drive.google.com/file/d/1dM0L3J2JKGku9kB_EnkAopBFvcSNnKp3/view?usp=sharing" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #3B82F6;" alt="Manish Mishra"/>
+<td width="35%" align="right" valign="middle">
+<img src="https://drive.google.com/uc?export=view&id=1dM0L3J2JKGku9kB_EnkAopBFvcSNnKp3" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #3B82F6;" alt="Manish Mishra"/>
 </td>
 </tr>
 </table>
