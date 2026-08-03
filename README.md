@@ -1,38 +1,25 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:3B82F6,100:7C3AED&height=180&section=header"/>
+<div align="center">
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1dM0L3J2JKGku9kB_EnkAopBFvcSNnKp3"
-       width="170"
-       style="border-radius:50%;border:4px solid #3B82F6;" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B14,50:D4AF37,100:1a1a2e&height=220&section=header&text=Manish%20Mishra&fontSize=52&fontColor=FFF8E7&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20·%20Data%20Engineer%20·%20Full-Stack%20Developer&descAlignY=52&descAlign=50" width="100%"/>
 
-<h1 align="center">Hi 👋 I'm Manish Mishra</h1>
-
-<h3 align="center">
-AI Engineer • Data Engineer • Full Stack Developer
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Production+Grade+AI+Systems;Data+Engineer+%7C+ML+Engineer+%7C+DevOps;LangChain+%2B+FastAPI+%2B+AWS+%2B+Databricks;Turning+Data+Into+Decisions"/>
-</p>
-
-<p align="center">
-<a href="https://www.manishmishra.site">
-<img src="https://img.shields.io/badge/Portfolio-3B82F6?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.manishmishra.site/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=800&color=D4AF37&center=true&vCenter=true&width=640&lines=Building+production-grade+AI+systems;Data+Engineer+%7C+ML+Engineer+%7C+DevOps;LangChain+%2B+FastAPI+%2B+Databricks+%2B+AWS;Turning+data+into+decisions" alt="Typing SVG" />
 </a>
 
-<a href="https://linkedin.com/in/manish-mishra-b5356b284">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="mailto:manishmishra2604@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="2"/>
 
-<a href="https://www.manishmishra.site/resume.pdf">
-<img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge&logo=readme&logoColor=white"/>
-</a>
-</p>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-manishmishra.site-D4AF37?style=for-the-badge&logo=vercel&logoColor=0B0B14)](https://www.manishmishra.site/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0B0B14)](https://in.linkedin.com/in/manish-mishra-b5356b284)
+[![Email](https://img.shields.io/badge/Email-Contact-D4AF37?style=for-the-badge&logo=gmail&logoColor=0B0B14)](mailto:manishmishra2604@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-D4AF37?style=for-the-badge&logo=readdotcv&logoColor=0B0B14)](https://www.manishmishra.site/resume.pdf)
+
+</div>
+
+<br/>
 
 ## About this repo
 
@@ -49,25 +36,25 @@ password-gated admin dashboard so I can add or edit projects without touching co
 ## Recently Updated
 
 <table width="100%">
-<tr style="border-bottom:1px solid #333;">
+<tr style="border-bottom:1px solid #D4AF37;">
 <th align="left">Project</th>
 <th align="left">Last Commit</th>
 <th align="left">Status</th>
 </tr>
 <tr>
 <td><a href="https://github.com/manish26m/MediReporter"><b>MediReporter</b></a></td>
-<td><img src="https://img.shields.io/github/last-commit/manish26m/MediReporter?style=flat-square&color=3B82F6&label=" /></td>
-<td><img src="https://img.shields.io/badge/-Live-22C55E?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/last-commit/manish26m/MediReporter?style=flat-square&color=D4AF37&label=" /></td>
+<td><img src="https://img.shields.io/badge/-Live-D4AF37?style=flat-square" /></td>
 </tr>
 <tr>
 <td><a href="https://github.com/manish26m/BoardUniverse"><b>BoardUniverse</b></a></td>
-<td><img src="https://img.shields.io/github/last-commit/manish26m/BoardUniverse?style=flat-square&color=3B82F6&label=" /></td>
-<td><img src="https://img.shields.io/badge/-Live-22C55E?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/last-commit/manish26m/BoardUniverse?style=flat-square&color=D4AF37&label=" /></td>
+<td><img src="https://img.shields.io/badge/-Live-D4AF37?style=flat-square" /></td>
 </tr>
 <tr>
 <td><a href="https://github.com/manish26m/fmcg-DataForge"><b>DataForge</b></a></td>
-<td><img src="https://img.shields.io/github/last-commit/manish26m/fmcg-DataForge?style=flat-square&color=3B82F6&label=" /></td>
-<td><img src="https://img.shields.io/badge/-Live-22C55E?style=flat-square" /></td>
+<td><img src="https://img.shields.io/github/last-commit/manish26m/fmcg-DataForge?style=flat-square&color=D4AF37&label=" /></td>
+<td><img src="https://img.shields.io/badge/-Live-D4AF37?style=flat-square" /></td>
 </tr>
 </table>
 
@@ -77,7 +64,7 @@ password-gated admin dashboard so I can add or edit projects without touching co
 
 <table>
 <tr>
-<td width="50%" valign="top" style="border-left:3px solid #3B82F6; padding-left:14px;">
+<td width="50%" valign="top" style="border-left:3px solid #D4AF37; padding-left:14px;">
 
 <b>Dynamic hero</b><br/>
 Role title rotates through Data Engineer, Python Developer, DevOps Engineer, Business
@@ -94,7 +81,7 @@ Subtle animated grid and floating gradient blobs — no bounce, no clutter, no m
 Two cards per row: image preview, tags, live status, GitHub and demo links.
 
 </td>
-<td width="50%" valign="top" style="border-left:3px solid #7C3AED; padding-left:14px;">
+<td width="50%" valign="top" style="border-left:3px solid #D4AF37; padding-left:14px;">
 
 <b>Scroll reveals</b><br/>
 Sections fade and lift into view via <code>IntersectionObserver</code> — zero dependencies.
@@ -126,7 +113,7 @@ Edits persist via shared storage — every visitor sees the same up-to-date proj
 <code>Python</code> <code>FastAPI</code> <code>Hugging Face</code> <code>BERT</code> <code>LSTM</code>
 </td>
 </tr>
-<tr><td colspan="2"><hr style="border:0.5px solid #222;"/></td></tr>
+<tr><td colspan="2"><hr style="border:0.5px solid #D4AF37;"/></td></tr>
 <tr>
 <td></td>
 <td><b><a href="https://www.manishmishra.site/projects/boarduniverse">BoardUniverse</a></b><br/>
@@ -134,7 +121,7 @@ Edits persist via shared storage — every visitor sees the same up-to-date proj
 <code>Docker</code> <code>Jenkins</code> <code>GitHub Actions</code> <code>SonarQube</code> <code>Trivy</code>
 </td>
 </tr>
-<tr><td colspan="2"><hr style="border:0.5px solid #222;"/></td></tr>
+<tr><td colspan="2"><hr style="border:0.5px solid #D4AF37;"/></td></tr>
 <tr>
 <td></td>
 <td><b><a href="https://www.manishmishra.site/projects/dataforge">DataForge</a></b><br/>
@@ -142,7 +129,7 @@ Edits persist via shared storage — every visitor sees the same up-to-date proj
 <code>Python</code> <code>SQL</code> <code>FastAPI</code> <code>AWS S3</code> <code>Databricks</code>
 </td>
 </tr>
-<tr><td colspan="2"><hr style="border:0.5px solid #222;"/></td></tr>
+<tr><td colspan="2"><hr style="border:0.5px solid #D4AF37;"/></td></tr>
 <tr>
 <td></td>
 <td><b><a href="https://www.manishmishra.site/projects/lead-intelligence-engine">Lead Intelligence Engine</a></b><br/>
@@ -150,7 +137,7 @@ Edits persist via shared storage — every visitor sees the same up-to-date proj
 <code>Python</code> <code>SQL</code> <code>Scikit-learn</code> <code>Pandas</code> <code>NumPy</code>
 </td>
 </tr>
-<tr><td colspan="2"><hr style="border:0.5px solid #222;"/></td></tr>
+<tr><td colspan="2"><hr style="border:0.5px solid #D4AF37;"/></td></tr>
 <tr>
 <td></td>
 <td><b><a href="https://www.manishmishra.site/projects/llm-document-qa">LLM Document Q&A</a></b><br/>
@@ -216,16 +203,16 @@ Password: changeme123
 ## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manish26m&show_icons=true&theme=dark&hide_border=true&bg_color=0D0D0F&title_color=3B82F6&icon_color=7C3AED&text_color=FAFAFA" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish26m&layout=compact&theme=dark&hide_border=true&bg_color=0D0D0F&title_color=3B82F6&text_color=FAFAFA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manish26m&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&icon_color=D4AF37&text_color=FFF8E7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish26m&layout=compact&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&text_color=FFF8E7" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manish26m&theme=dark&hide_border=true&background=0D0D0F&ring=3B82F6&fire=7C3AED&currStreakLabel=FAFAFA" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manish26m&theme=dark&hide_border=true&background=0B0B14&ring=D4AF37&fire=D4AF37&currStreakLabel=FFF8E7" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manish26m&theme=react-dark&hide_border=true&bg_color=0D0D0F&color=3B82F6&line=7C3AED&point=FAFAFA" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manish26m&theme=react-dark&hide_border=true&bg_color=0B0B14&color=D4AF37&line=D4AF37&point=FFF8E7" width="100%"/>
 </div>
 
 <br/>
@@ -234,7 +221,7 @@ Password: changeme123
 <summary><b>GitHub Trophies</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manish26m&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=manish26m&theme=gitdimmed&no-frame=true&row=1&column=6" />
 </div>
 </details>
 
@@ -263,9 +250,9 @@ at Futurense Technologies, and Research Intern at the Indian Institute of Develo
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/manishmishra2604%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manishmishra2604@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/manish--mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manish-mishra-b5356b284)
-[![GitHub](https://img.shields.io/badge/manish26m-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manish26m)
+[![Email](https://img.shields.io/badge/manishmishra2604%40gmail.com-D4AF37?style=flat-square&logo=gmail&logoColor=0B0B14)](mailto:manishmishra2604@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/manish--mishra-D4AF37?style=flat-square&logo=linkedin&logoColor=0B0B14)](https://in.linkedin.com/in/manish-mishra-b5356b284)
+[![GitHub](https://img.shields.io/badge/manish26m-D4AF37?style=flat-square&logo=github&logoColor=0B0B14)](https://github.com/manish26m)
 
 Lovely Professional University, Punjab, India
 
@@ -279,4 +266,4 @@ MIT — do whatever you'd like with this, a credit back is always appreciated.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:09090B&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:D4AF37,100:0B0B14&height=120&section=footer" width="100%"/>
