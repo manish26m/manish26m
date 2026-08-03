@@ -21,7 +21,7 @@
 
 </td>
 <td width="35%" align="centre" valign="middle">
-<img src="https://drive.google.com/uc?export=view&id=1WChC7MDrfJ1lhEvYPZhwqfBU5eeAo1NS" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #3B82F6;" alt="Manish Mishra"/>
+<img src="[https://drive.google.com/uc?export=view&id=1WChC7MDrfJ1lhEvYPZhwqfBU5eeAo1NS](https://drive.google.com/file/d/1dM0L3J2JKGku9kB_EnkAopBFvcSNnKp3/view?usp=sharing)" width="160" height="160" style="border-radius:50%;object-fit:cover;border:3px solid #3B82F6;" alt="Manish Mishra"/>
 </td>
 </tr>
 </table>
