@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:3B82F6,100:7C3AED&height=220&section=header&text=Manish%20Mishra&fontSize=52&fontColor=FAFAFA&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20·%20Data%20Engineer%20·%20Full-Stack%20Developer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:3B82F6,100:7C3AED&height=220&section=header&text=Manish%20Mishra&fontSize=52&fontColor=FAFAFA&animation=fadeIn&fontAlignY=32&desc=AI%20Engineer%20·%20Data%20Engineer%20·%20Full-Stack%20Developer&descAlignY=52&descAlign=50" width="100%"/>
+
+<img src="https://drive.google.com/uc?export=view&id=1WChC7MDrfJ1lhEvYPZhwqfBU5eeAo1NS" width="140" height="140" style="border-radius:50%;object-fit:cover;border:3px solid #3B82F6;" alt="Manish Mishra"/>
+
+<br/><br/>
 
 <a href="https://www.manishmishra.site/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2400&pause=800&color=3B82F6&center=true&vCenter=true&width=640&lines=Building+production-grade+AI+systems;Data+Engineer+%7C+ML+Engineer+%7C+DevOps;LangChain+%2B+FastAPI+%2B+Databricks+%2B+AWS;Turning+data+into+decisions" alt="Typing SVG" />
@@ -9,7 +13,7 @@
 <br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manishmishra.site-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://www.manishmishra.site/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishmishra2604)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manish-mishra-b5356b284)
 [![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishmishra2604@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-22C55E?style=for-the-badge&logo=readdotcv&logoColor=white)](https://www.manishmishra.site/resume.pdf)
 
@@ -27,6 +31,20 @@ password-gated admin dashboard so I can add or edit projects without touching co
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,aws,docker,jenkins,git,github,githubactions,postgres,mysql,react,js,html,css,linux,vscode&theme=dark" />
+</div>
+
+<br/>
+
+## 🔥 Recently Updated
+
+<div align="center">
+
+| Project | Last Commit | Status |
+|---|---|---|
+| **[MediReporter](https://github.com/manish26m/MediReporter)** | ![last commit](https://img.shields.io/github/last-commit/manish26m/MediReporter?style=flat-square&color=3B82F6&label=) | ![Live](https://img.shields.io/badge/-Live-22C55E?style=flat-square) |
+| **[BoardUniverse](https://github.com/manish26m/BoardUniverse)** | ![last commit](https://img.shields.io/github/last-commit/manish26m/BoardUniverse?style=flat-square&color=3B82F6&label=) | ![Live](https://img.shields.io/badge/-Live-22C55E?style=flat-square) |
+| **[DataForge](https://github.com/manish26m/DataForge)** | ![last commit](https://img.shields.io/github/last-commit/manish26m/DataForge?style=flat-square&color=3B82F6&label=) | ![Live](https://img.shields.io/badge/-Live-22C55E?style=flat-square) |
+
 </div>
 
 <br/>
@@ -153,6 +171,20 @@ Password: changeme123
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish26m&theme=dark&hide_border=true&background=0D0D0F&ring=3B82F6&fire=7C3AED&currStreakLabel=FAFAFA" />
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manish26m&theme=react-dark&hide_border=true&bg_color=0D0D0F&color=3B82F6&line=7C3AED&point=FAFAFA" width="100%"/>
+</div>
+
+<br/>
+
+<details>
+<summary><b>🏆 GitHub Trophies (click to expand)</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=manish26m&theme=darkhub&no-frame=true&row=1&column=6" />
+</div>
+</details>
+
 <br/>
 
 ## 🗺️ Roadmap
@@ -179,7 +211,7 @@ at Futurense Technologies, and Research Intern at the Indian Institute of Develo
 <div align="center">
 
 [![Email](https://img.shields.io/badge/manishmishra2604%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:manishmishra2604@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/manishmishra2604-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manishmishra2604)
+[![LinkedIn](https://img.shields.io/badge/manish--mishra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/manish-mishra-b5356b284)
 [![GitHub](https://img.shields.io/badge/manish26m-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/manish26m)
 
 📍 Lovely Professional University, Punjab, India
