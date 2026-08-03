@@ -23,10 +23,38 @@
 
 ## About this repo
 
-This is the source for my personal portfolio — not a template, a small product. A dark,
-editorial single-page site with a rotating role hero, a two-column project grid, and a
-password-gated admin dashboard so I can add or edit projects without touching code.
+<div align="center">
 
+### 🜂 About Me
+
+</div>
+
+<table width="100%">
+<tr>
+<td style="border-left:3px solid #D4AF37; padding-left:16px;">
+
+Computer Science undergraduate at **Lovely Professional University**, Punjab, specializing in
+**AI and Data Engineering**. I like building systems that hold up under real traffic and real
+data — not notebooks that only work on a sample.
+
+<br/>
+
+| | |
+|---|---|
+| 🎓 | Semester exchange scholar at **ITMO University**, Russia |
+| 📜 | Microsoft **DP-900** (Azure Data Fundamentals) certified |
+| 💼 | Data Engineering & Business Analyst Intern — **Futurense Technologies** |
+| 🔬 | Research Intern — **Indian Institute of Development Research** |
+| 🧰 | Full-stack comfort: **Databricks · AWS · FastAPI · Apache Spark · Delta Lake** |
+
+<br/>
+
+> **Currently:** shipping LLM-powered tooling and production data pipelines — open to
+> full-time AI/Data Engineering roles.
+
+</td>
+</tr>
+</table>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,aws,docker,jenkins,git,github,githubactions,postgres,mysql,react,js,html,css,linux,vscode&theme=dark" />
 </div>
