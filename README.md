@@ -88,48 +88,6 @@ data — not notebooks that only work on a sample.
 
 <br/>
 
-## Features
-
-<table>
-<tr>
-<td width="50%" valign="top" style="border-left:3px solid #D4AF37; padding-left:14px;">
-
-<b>Dynamic hero</b><br/>
-Role title rotates through Data Engineer, Python Developer, DevOps Engineer, Business
-Analyst, and AI & ML Engineer with a soft gradient fade.
-
-<br/><br/>
-
-<b>Ambient motion</b><br/>
-Subtle animated grid and floating gradient blobs — no bounce, no clutter, no motion library.
-
-<br/><br/>
-
-<b>Case-study project grid</b><br/>
-Two cards per row: image preview, tags, live status, GitHub and demo links.
-
-</td>
-<td width="50%" valign="top" style="border-left:3px solid #D4AF37; padding-left:14px;">
-
-<b>Scroll reveals</b><br/>
-Sections fade and lift into view via <code>IntersectionObserver</code> — zero dependencies.
-
-<br/><br/>
-
-<b>Admin panel</b><br/>
-Lock icon in the nav opens a login screen; once authenticated, add, edit, or delete projects
-from a real dashboard, no redeploy needed.
-
-<br/><br/>
-
-<b>Shared live data</b><br/>
-Edits persist via shared storage — every visitor sees the same up-to-date project list.
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## Featured Projects
 
@@ -173,57 +131,6 @@ Edits persist via shared storage — every visitor sees the same up-to-date proj
 <code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>OpenAI API</code> <code>Pandas</code>
 </td>
 </tr>
-</table>
-
-<br/>
-
-## Tech Stack
-
-<table>
-<tr><td width="140"><b>UI</b></td><td>React (functional components + hooks)</td></tr>
-<tr><td><b>Icons</b></td><td><a href="https://lucide.dev">lucide-react</a></td></tr>
-<tr><td><b>Styling</b></td><td>Inline design tokens — no CSS framework dependency</td></tr>
-<tr><td><b>Fonts</b></td><td>Inter (UI) · JetBrains Mono (labels & tags)</td></tr>
-<tr><td><b>Motion</b></td><td>Native CSS keyframes + <code>IntersectionObserver</code></td></tr>
-<tr><td><b>Persistence</b></td><td>Key-value storage API (shared scope)</td></tr>
-</table>
-
-<br/>
-
-## Getting Started
-
-```bash
-git clone https://github.com/manish26m/<your-repo>.git
-cd <your-repo>
-npm install
-npm run dev
-```
-
-<br/>
-
-## Admin Access
-
-The admin panel is reachable via the lock icon in the floating nav.
-
-```
-ID:       admin
-Password: changeme123
-```
-
-> Change these before deploying. Credentials live as plain constants at the top of
-> `portfolio.jsx` (`ADMIN_ID`, `ADMIN_PASS`). This is a lightweight client-side gate to keep
-> casual visitors out of the editor — not a substitute for real authentication.
-
-<br/>
-
-## Customization
-
-<table>
-<tr><td width="220"><b>Name, headline, bio</b></td><td><code>Hero()</code> component</td></tr>
-<tr><td><b>Rotating roles</b></td><td><code>ROLES</code> array</td></tr>
-<tr><td><b>Color palette</b></td><td>Inline hex tokens (<code>#09090B</code>, <code>#3B82F6</code>, <code>#7C3AED</code>)</td></tr>
-<tr><td><b>Default projects</b></td><td><code>SEED_PROJECTS</code> array</td></tr>
-<tr><td><b>Admin credentials</b></td><td><code>ADMIN_ID</code>, <code>ADMIN_PASS</code> constants</td></tr>
 </table>
 
 <br/>
