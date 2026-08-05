@@ -156,7 +156,7 @@ data — not notebooks that only work on a sample.
 <summary><b>GitHub Trophies</b></summary>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manish26m&theme=gitdimmed&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=manish26m&theme=gitdimmed&no-frame=true&row=1&column=6" />
 </div>
 </details>
 <br/>
