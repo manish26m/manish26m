@@ -136,10 +136,11 @@ data — not notebooks that only work on a sample.
 <br/>
 
 ## GitHub Stats
+## GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manish26m&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&icon_color=D4AF37&text_color=FFF8E7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish26m&layout=compact&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&text_color=FFF8E7" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=manish26m&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&icon_color=D4AF37&text_color=FFF8E7" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=manish26m&layout=compact&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&text_color=FFF8E7" />
 </div>
 
 <div align="center">
