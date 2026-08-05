@@ -143,13 +143,12 @@ data — not notebooks that only work on a sample.
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manish26m&theme=dark&hide_border=true&background=0B0B14&ring=D4AF37&fire=D4AF37&currStreakLabel=FFF8E7" />
+<img src="https://streak-stats.demolab.com/?user=manish26m&theme=dark&hide_border=true&background=0B0B14&ring=D4AF37&fire=D4AF37&currStreakLabel=FFF8E7" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manish26m&theme=react-dark&hide_border=true&bg_color=0B0B14&color=D4AF37&line=D4AF37&point=FFF8E7" width="100%"/>
 </div>
-
 <br/>
 
 <details>
@@ -159,7 +158,6 @@ data — not notebooks that only work on a sample.
 <img src="https://github-profile-trophy.vercel.app/?username=manish26m&theme=gitdimmed&no-frame=true&row=1&column=6" />
 </div>
 </details>
-
 <br/>
 
 ## Roadmap
