@@ -8,20 +8,65 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="2"/>
-
-<br/>
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-manishmishra.site-D4AF37?style=for-the-badge&logo=vercel&logoColor=0B0B14)](https://www.manishmishra.site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-D4AF37?style=for-the-badge&logo=linkedin&logoColor=0B0B14)](https://in.linkedin.com/in/manish-mishra-b5356b284)
 [![Email](https://img.shields.io/badge/Email-Contact-D4AF37?style=for-the-badge&logo=gmail&logoColor=0B0B14)](mailto:manishmishra2604@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Download-D4AF37?style=for-the-badge&logo=readdotcv&logoColor=0B0B14)](https://www.manishmishra.site/resume.pdf)
 
+<img src="https://komarev.com/ghpvc/?username=manish26m&label=Profile+Views&color=D4AF37&style=for-the-badge" />
+
 </div>
 
 <br/>
 
-## About this repo
+<div align="center">
+<img src="https://raw.githubusercontent.com/manish26m/manish26m/output/github-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="2"/>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=manish26m&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&icon_color=D4AF37&text_color=FFF8E7" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=manish26m&layout=compact&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&text_color=FFF8E7" />
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=manish26m&theme=dark&hide_border=true&background=0B0B14&ring=D4AF37&fire=D4AF37&currStreakLabel=FFF8E7" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manish26m&theme=react-dark&hide_border=true&bg_color=0B0B14&color=D4AF37&line=D4AF37&point=FFF8E7" width="100%"/>
+</div>
+
+<br/>
+
+### Contribution Calendar
+
+<div align="center">
+<img src="https://ghchart.rshah.org/D4AF37/manish26m" alt="Manish's GitHub contribution chart" width="100%"/>
+</div>
+
+<br/>
+
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=manish26m&theme=gitdimmed&no-frame=true&row=1&column=6" />
+</div>
+</details>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%" height="2"/>
+
+<br/>
 
 <div align="center">
 
@@ -55,6 +100,7 @@ data — not notebooks that only work on a sample.
 </td>
 </tr>
 </table>
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,aws,docker,jenkins,git,github,githubactions,postgres,mysql,react,js,html,css,linux,vscode&theme=dark" />
 </div>
@@ -87,7 +133,6 @@ data — not notebooks that only work on a sample.
 </table>
 
 <br/>
-
 
 ## Featured Projects
 
@@ -135,48 +180,12 @@ data — not notebooks that only work on a sample.
 
 <br/>
 
-## GitHub Stats
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=manish26m&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&icon_color=D4AF37&text_color=FFF8E7" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=manish26m&layout=compact&theme=dark&hide_border=true&bg_color=0B0B14&title_color=D4AF37&text_color=FFF8E7" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=manish26m&theme=dark&hide_border=true&background=0B0B14&ring=D4AF37&fire=D4AF37&currStreakLabel=FFF8E7" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manish26m&theme=react-dark&hide_border=true&bg_color=0B0B14&color=D4AF37&line=D4AF37&point=FFF8E7" width="100%"/>
-</div>
-<br/>
-
-<details>
-<summary><b>GitHub Trophies</b></summary>
-<br/>
-<div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=manish26m&theme=gitdimmed&no-frame=true&row=1&column=6" />
-</div>
-</details>
-<br/>
-
 ## Roadmap
 
 - [ ] Dedicated project case-study pages (problem, architecture, metrics, lessons learned)
-- [ ] GitHub activity dashboard (contribution graph, pinned repos, languages)
 - [ ] Interactive resume viewer with download
 - [ ] Experience timeline (Futurense, IIDR)
 - [ ] Real authentication for the admin panel
-
-<br/>
-
-## About Me
-
-Computer Science undergraduate (LPU, Punjab) specializing in AI & Data Engineering — hands-on
-with Databricks, AWS, FastAPI, Apache Spark, and Delta Lake. Semester exchange scholar at ITMO
-University, Microsoft DP-900 certified. Previously Data Engineering & Business Analyst Intern
-at Futurense Technologies, and Research Intern at the Indian Institute of Development Research.
 
 <br/>
 
